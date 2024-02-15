@@ -18,8 +18,8 @@ In this project, I created an MVP for my portfolio focusing on responsive design
 
 #### Challenges Faced
 
-- **Responsive Design for Smaller Screens**: Adjusting layouts and font sizes for smaller screens was challenging. I had to experiment with different approaches to ensure the design remained consistent and functional.
-- **Hover and Focus Effects**: Implementing interactive elements like hover and focus effects required more practice and research to get them right.
+- **Grid**: Adjusting layouts and font sizes for smaller screens was challenging. I had to experiment with different approaches to ensure the design remained consistent and functional.
+- **Navigation bar**: Implementing interactive elements like hover and focus effects required more practice and research to get them right.
 
 #### Areas for Improvement
 
@@ -30,4 +30,3 @@ In this project, I created an MVP for my portfolio focusing on responsive design
 #### Overall Learning Experience
 
 This project was an invaluable hands-on experience in applying CSS layout techniques. It helped solidify my understanding of CSS and its practical applications in web development. I look forward to building on these skills in future projects.
-
