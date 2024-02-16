@@ -12,21 +12,18 @@ In this project, I created an MVP for my portfolio focusing on responsive design
 
 #### Areas of Mastery
 
-- **CSS Layout Techniques**: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
-- **Responsive Design**: I successfully implemented media queries to ensure the page looks good on both desktop and mobile screens.
-- **Styling Elements**: I was able to style the profile image, user information, and gallery section effectively, closely resembling an Instagram profile.
+- **Responsive Design**: I successfully implemented media queries to ensure the page looks decent on various re-sizing or devices and that naviagtion bar is responsive.
+- **Styling Elements**: I was able to style my portfolio accordingly with CSS stylings in the various areas of effects.
 
 #### Challenges Faced
 
-- **Grid**: Adjusting layouts and font sizes for smaller screens was challenging. I had to experiment with different approaches to ensure the design remained consistent and functional.
+- **Grid**: Adjusting layouts for the images in the portfolio were placed accordingly. I had to experiment with different approaches to ensure the design remained consistent and functional. Unfortunately, I settled with how they were displayyed, as I did not want to mess up the code.
 - **Navigation bar**: Implementing interactive elements like hover and focus effects required more practice and research to get them right.
 
 #### Areas for Improvement
 
-- **Advanced CSS Properties**: I want to explore more advanced CSS properties and animations to enhance the user experience.
-- **Code Optimization**: While my code achieved the desired outcome, I believe I can improve its efficiency and readability.
-- **Creative Design Choices**: I adhered closely to the Instagram layout for practice but would like to experiment with more creative design choices in future projects.
+- **Advanced CSS Properties**: I want to explore more advanced CSS properties to enhance the user experience, whilst maintaing the design thinking or UI principles.
 
 #### Overall Learning Experience
 
-This project was an invaluable hands-on experience in applying CSS layout techniques. It helped solidify my understanding of CSS and its practical applications in web development. I look forward to building on these skills in future projects.
+This project was an invaluable hands-on experience in applying UI principles, responsive designing with the mentality of design thinking techniques. It helped solidify my understanding of responsive design, CSS and its practical applications in web development.
